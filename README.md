@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-조금씩 성장하는 비전공 개발자 깃허브
+조금씩 성장하는 비전공 개발자의깃허브
 
 <!--
 **hgs0529/hgs0529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
