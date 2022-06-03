@@ -1,4 +1,4 @@
-### Hi there 👋
+`![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Eden Hwang%20render&fontSize=90)`
 
 조금씩 성장하는 개발자의깃허브
 
