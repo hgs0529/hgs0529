@@ -2,8 +2,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=white&height=300&section=header&text=🤩%20Eden%20Hwang&fontColor=FCCE00" />
 	
-  🛠 Tech Stack 🛠
-	
+  <h3>🛠 Tech Stack 🛠</ h3>
+	<br />
+	<br />
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
