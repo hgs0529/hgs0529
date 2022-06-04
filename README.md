@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=300&section=header&text=Eden%20Hwang&fontColor=FCCE00" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=white&height=300&section=header&text=🤩%20Eden%20Hwang&fontColor=FCCE00" />
 	
   🛠 Tech Stack 🛠
 	
@@ -17,6 +17,10 @@
 <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=Jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
+	<br />
+	<br />
+	<br />
+	<br />
 	<br />
 	<br />
 	<br />
