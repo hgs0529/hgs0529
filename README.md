@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=white&height=300&section=header&text=🤩%20Eden%20Hwang&fontColor=FCCE00" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=white&height=300&section=header&text=🤩%20Eden%20Hwang&fontColor=FCCE00" />
 	
   <h3>🛠 Tech Stack 🛠</ h3>
 	<br />
